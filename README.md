@@ -1,8 +1,5 @@
 # 1D-Dynamic-Programming
 Step-by-step 1D Dynamic Programming practice in Python, covering Fibonacci, Climbing Stairs, Frog Jump, Maximum Sum of Non-Adjacent Elements, and Minimum Cost Climbing Stairs.
-# 1D Dynamic Programming
-
-This folder contains my step-by-step practice of **1D Dynamic Programming (DP)** problems in Python.
 
 The problems focus on understanding how a solution can be built from previously calculated states and stored in a one-dimensional `dp` array.
 
